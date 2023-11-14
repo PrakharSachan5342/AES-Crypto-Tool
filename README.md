@@ -72,7 +72,3 @@ Make sure you have the following installed on your system:
     - Choose the decryption option.
     - Enter the encrypted filename you want to decrypt with the proper extension.
     
-## Contributors
-
-- Your Name <your.email@example.com>
-- Another Contributor <another.email@example.com>
